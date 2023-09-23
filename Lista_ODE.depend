@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1695432987 source:/home/odiniizz/Documentos/Lista_ODE/main.cpp
+	"ListaODE.h"
+
+1695432889 /home/odiniizz/Documentos/Lista_ODE/ListaODE.h
+	<iostream>
+
+1695433071 source:/home/odiniizz/Documentos/Lista_ODE/ListaODE.cpp
+	"ListaODE.h"
+
